@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System
 
 This is a simple **Employee Management System** built using **Spring Boot** and **Hibernate (JPA)**. The application provides RESTful APIs to perform CRUD operations on employee data. It includes features for adding, retrieving, updating, and deleting employee records in a relational database.
@@ -150,3 +151,7 @@ SeyedMohammad Aminaltolieh
 
 
 This README should give any user or developer a clear understanding of your project and how to set it up, use it, and contribute to it. You can customize the details like URLs and your information before publishing on GitHub.
+=======
+# my-first-repo1
+Spring boot project repo
+>>>>>>> 32cbc312aae41cbcd4a0044bab7bb93f0abef1e0
